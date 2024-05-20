@@ -25,7 +25,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats:
-https://github-readme-stats.vercel.app/api?username=brandonP2&theme=dark&hide_border=false&include_all_commits=false&count_private=false<br/>
+![](https://github-readme-stats.vercel.app/api?username=brandonP2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brandonP2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonP2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
